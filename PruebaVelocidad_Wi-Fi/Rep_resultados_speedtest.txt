@@ -1,0 +1,10 @@
+Medicion 1: Descarga: 22.22 Mbps, Carga: 30.23 Mbps, Ping: 13.54 ms
+Medicion 2: Descarga: 15.33 Mbps, Carga: 23.66 Mbps, Ping: 6.42 ms
+Medicion 3: Descarga: 46.76 Mbps, Carga: 49.75 Mbps, Ping: 12.88 ms
+Medicion 4: Descarga: 56.86 Mbps, Carga: 54.99 Mbps, Ping: 11.23 ms
+Medicion 5: Descarga: 37.76 Mbps, Carga: 33.47 Mbps, Ping: 13.45 ms
+Medicion 6: Descarga: 29.47 Mbps, Carga: 37.59 Mbps, Ping: 13.37 ms
+Medicion 7: Descarga: 26.20 Mbps, Carga: 22.13 Mbps, Ping: 12.94 ms
+Medicion 8: Descarga: 21.24 Mbps, Carga: 37.76 Mbps, Ping: 10.60 ms
+Medicion 9: Descarga: 35.90 Mbps, Carga: 16.76 Mbps, Ping: 11.28 ms
+Medicion 10: Descarga: 21.56 Mbps, Carga: 22.00 Mbps, Ping: 9.80 ms
